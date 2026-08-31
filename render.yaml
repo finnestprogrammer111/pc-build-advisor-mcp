@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: pc-build-advisor-mcp
+    runtime: docker
+    plan: free
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    autoDeployTrigger: checksPass
