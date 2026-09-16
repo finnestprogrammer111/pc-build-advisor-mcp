@@ -1,5 +1,7 @@
 # PC Build Advisor MCP
 
+[![M8ven Live Monitored](https://m8ven.ai/badge/mcp/finnestprogrammer111-pc-build-advisor-mcp-i6cia4)](https://m8ven.ai/mcp/finnestprogrammer111-pc-build-advisor-mcp-i6cia4)
+
 An interactive PC compatibility checker that works as an MCP App inside ChatGPT and as a regular browser application.
 
 It checks supplied component specifications for CPU socket, memory generation, motherboard and case fit, GPU and cooler clearance, RAM and storage slots, GPU power connectors, and PSU capacity.
